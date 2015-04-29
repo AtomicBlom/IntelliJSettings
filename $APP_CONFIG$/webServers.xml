@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7e146527-31a6-4ef4-b279-55c16755fa77" name="CorporateWebsite-VNext" url="http://corpweb.steblo.users.mybudget.local/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="74270bbd-a20d-4fff-a40d-c94d998c36a2" name="MembersWeb" url="http://membersweb.steblo.users.mybudget.local/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
+  </component>
+</application>
+
