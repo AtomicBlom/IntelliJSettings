@@ -51,16 +51,31 @@
     </filter>
   </component>
   <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="http://exslt.org/dates-and-times" />
-    <ignored-resource url="http://exslt.org/dynamic" />
-    <ignored-resource url="http://exslt.org/math" />
-    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="C:\Git\members-website" />
+        <option value="C:\Git\Website" />
+        <option value="C:\Git\corporate-website-2" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="C:\Git\members-website" />
+      </list>
+    </option>
+    <option name="lastPath" value="C:\Git\members-website" />
   </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
@@ -92,10 +107,20 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="groovy_debugger">
-        <configuration />
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
       </debugger>
     </debuggers>
+  </component>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="attributes">
+      <TextAttributes />
+    </option>
+    <option name="contextAttributes">
+      <TextAttributes />
+    </option>
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>

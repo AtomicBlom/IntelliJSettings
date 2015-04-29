@@ -1,0 +1,14 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="evlsprt3.8" value="15" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpStorm.multiCaretsEnabled" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="true" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="javascript.grunt_toolwindow_splitter" value="0.2" />
+    <property name="Non-Project Files" value="Yellow" />
+  </component>
+</application>
