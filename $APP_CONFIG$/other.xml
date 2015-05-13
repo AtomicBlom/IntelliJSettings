@@ -65,8 +65,8 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="C:\Git\corporate-website-2" />
         <option value="C:\Git\members-website" />
+        <option value="C:\Git\corporate-website-2" />
         <option value="C:\Git\Website" />
       </list>
     </option>
@@ -107,8 +107,10 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="groovy_debugger">
-        <configuration />
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
       </debugger>
     </debuggers>
   </component>
