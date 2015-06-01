@@ -8,5 +8,8 @@
   </component>
   <component name="FileTypeManager" version="13">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="dae" type="PLAIN_TEXT" />
+    </extensionMap>
   </component>
 </application>
