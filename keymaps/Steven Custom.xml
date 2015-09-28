@@ -1,89 +1,89 @@
 <keymap version="1" name="Steven Custom" parent="Visual Studio">
   <action id="Console.TableResult.Reload" />
   <action id="ExtractInterface">
-    <keyboard-shortcut first-keystroke="control R" second-keystroke="control I" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl i" />
   </action>
   <action id="ExtractMethod">
-    <keyboard-shortcut first-keystroke="control R" second-keystroke="control M" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl m" />
   </action>
   <action id="Find">
-    <keyboard-shortcut first-keystroke="control F" second-keystroke="control F" />
+    <keyboard-shortcut first-keystroke="ctrl f" second-keystroke="ctrl f" />
   </action>
   <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="control F" second-keystroke="control P" />
-    <keyboard-shortcut first-keystroke="shift control F" />
+    <keyboard-shortcut first-keystroke="ctrl f" second-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
   <action id="FindNext">
-    <keyboard-shortcut first-keystroke="F3" />
-    <keyboard-shortcut first-keystroke="control F" second-keystroke="N" />
-    <keyboard-shortcut first-keystroke="control F" second-keystroke="control N" />
+    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="ctrl f" second-keystroke="n" />
+    <keyboard-shortcut first-keystroke="ctrl f" second-keystroke="ctrl n" />
   </action>
   <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="control F" second-keystroke="control U" />
+    <keyboard-shortcut first-keystroke="ctrl f" second-keystroke="ctrl u" />
   </action>
   <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="control G" second-keystroke="control C" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl c" />
   </action>
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="F12" />
+    <keyboard-shortcut first-keystroke="f12" />
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
-    <keyboard-shortcut first-keystroke="control G" second-keystroke="control D" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl d" />
   </action>
   <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="control G" second-keystroke="control F" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl f" />
   </action>
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control alt button1" />
-    <keyboard-shortcut first-keystroke="control G" second-keystroke="control I" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl i" />
   </action>
   <action id="GotoLine">
-    <keyboard-shortcut first-keystroke="control G" second-keystroke="control L" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl l" />
   </action>
   <action id="GotoRow" />
   <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="control G" second-keystroke="control S" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl s" />
   </action>
   <action id="GotoTypeDeclaration">
-    <keyboard-shortcut first-keystroke="control G" second-keystroke="control T" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl t" />
   </action>
   <action id="IntroduceField">
-    <keyboard-shortcut first-keystroke="control R" second-keystroke="control F" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl f" />
   </action>
   <action id="IntroduceParameter">
-    <keyboard-shortcut first-keystroke="control R" second-keystroke="control P" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl p" />
   </action>
   <action id="IntroduceVariable">
-    <keyboard-shortcut first-keystroke="control R" second-keystroke="control V" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl v" />
   </action>
   <action id="RecentFiles" />
   <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="shift control R" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="control E" second-keystroke="control C" />
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl c" />
   </action>
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="control R" second-keystroke="control R" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
   </action>
   <action id="ReplaceInPath" />
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+    <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="shift alt UP" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory">
-    <keyboard-shortcut first-keystroke="control M" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
 </keymap>
