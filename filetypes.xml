@@ -11,6 +11,7 @@
     <extensionMap>
       <mapping ext="ogex" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="mtl" type="PLAIN_TEXT" />
       <mapping ext="dae" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
